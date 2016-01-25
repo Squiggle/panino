@@ -1,1 +1,3 @@
 # panino
+
+Pedantic cardinality framework
